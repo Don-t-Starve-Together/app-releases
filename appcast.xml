@@ -4,11 +4,11 @@
         <title>Remeet</title>
         <item>
             <title>0.1.1</title>
-            <pubDate>Tue, 25 Feb 2025 21:18:39 +0300</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Wed, 26 Feb 2025 23:55:23 +0300</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Don-t-Starve-Together/app-releases/releases/download/0.1.1/Remeet.0.1.1.dmg" length="5421639" type="application/octet-stream" sparkle:edSignature="/Q1E3a1vIgLaZkNpkIwu7YnldkEuR1LXBt7k+syhS2O363j9/YRP/mRP0oxI2Hi10D2TH6Gvq0NG+kxn9lIrBQ=="/>
+            <enclosure url="https://github.com/Don-t-Starve-Together/app-releases/releases/download/0.1.1/Remeet.0.1.1.dmg" length="4910006" type="application/octet-stream" sparkle:edSignature="r7XjMaXDlqQKfp0ZD5mTAZQ04dWnM54HoWfiLbnYR78QPlE19aj5NYo6mwQmOreK+qee3fNFzjHXrn3/tksPAA=="/>
         </item>
     </channel>
 </rss>
