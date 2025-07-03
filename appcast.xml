@@ -3,6 +3,14 @@
     <channel>
         <title>Remeet</title>
         <item>
+            <title>0.3.3</title>
+            <pubDate>Wed, 25 Jun 2025 17:42:09 +0300</pubDate>
+            <sparkle:version>0.3.3</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://don-t-starve-together.github.io/app-releases/Remeet.0.3.3.dmg" length="4969112" type="application/octet-stream" sparkle:edSignature="pkDLT6n8bs7jqYpHB/jY6vWJb5ovsLuuJDV4AnNmFvDqva3xGRxzUveTzmprjhIt8dPIP8aP/s1w6CmUzY4XDg=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 08 May 2025 02:25:21 +0300</pubDate>
             <sparkle:version>0.3.0</sparkle:version>
